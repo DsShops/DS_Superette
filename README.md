@@ -1,7 +1,8 @@
 # DS_Superette
 Script De Superette FiveM Gratuit !!
 
-#Suivez les etapes :
+Suivez les etapes :
+
 Etape 1 :
 Dans le cfg, mettez la ligne ci dessous :
 ensure ds_superette
